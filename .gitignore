@@ -13,8 +13,8 @@
 *.sln
 
 # Purchased Assets
-Assets/NGUI/
-Assets/Standard Assets/
+**/Assets/NGUI/
+**/Assets/Standard Assets/
 
 ################
 # Sublime Text #
