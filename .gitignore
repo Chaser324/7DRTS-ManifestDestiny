@@ -12,9 +12,12 @@
 *.unityproj
 *.sln
 
-# Purchased Assets
+# Imported Assets
 **/Assets/NGUI/
 **/Assets/Standard Assets/
+**/Assets/Terrain Assets/
+**/Assets/Editor/Image Effects
+**/Assets/SuperSplines
 
 ################
 # Sublime Text #
