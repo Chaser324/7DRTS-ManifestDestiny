@@ -41,8 +41,9 @@ Win the game by raising your flag over a settlement on the west coast.
 Things I originally planned to do when I started that I eventually dropped.
 
 * Natives - Prepopulate some inner nodes on the map with units belonging to a Native American faction that isn't competing to win the game.
-* Seasons - A periodic cycling through spring/summer/fall/winter. During colder weather, traveling would be more difficult and food production reduced. 
-* Nation Traits - Each playable faction has unique characteristics: move faster, produce units faster, stronger soldiers, etc. Considering that I didn't have time to properly balance things without these, I decided not to pursue them. 
+* Seasons - A periodic cycling through spring/summer/fall/winter. During colder weather, traveling would be more difficult and food production reduced.
+* Nation Traits - Each playable faction has unique characteristics: move faster, produce units faster, stronger soldiers, etc. Considering that I didn't have time to properly balance things without these, I decided not to pursue them.
+* Rally Points & Automated Production - Tools to help the player manage their empire as it expands. As it stands, things can start to become a bit cumbersome with even just a handful of nodes to manage, and the AI actually has a bit of an unfair advantage because of it.
 
 ## Credits ##
 
