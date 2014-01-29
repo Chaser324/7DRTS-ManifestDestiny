@@ -1,6 +1,6 @@
 # Manifest Destiny: Masters of the New World #
 
-### A real-time strategy game developed in Unity for [MiniLD 44 - #7DRTS](http://www.ludumdare.com/compo/2013/07/05/minild-44-announcement/). ###
+A real-time strategy game developed in Unity for [MiniLD 44 - #7DRTS](http://www.ludumdare.com/compo/2013/07/05/minild-44-announcement/).
 
 Check out the Ludum Dare page for this game [here](http://www.ludumdare.com/compo/minild-44/?action=preview&uid=22017).
 
